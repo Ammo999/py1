@@ -1,5 +1,6 @@
 # ParseScript in project Testparser
 # This is the latest file which has been sanitised for errors and warnings - 28-03-19
+# Added Feature 1 at the bottom
 
 """
  A. Moghul - April 2019
@@ -1260,7 +1261,8 @@ class Window(Frame):
         self.t_out.insert('end', "\nFinished")
         self.t_out.see('end')
 
-
+def feature1():
+    print ("This is feature one")
 
 # #########################################################################
 # # MAIN

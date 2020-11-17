@@ -1,4 +1,7 @@
 hello mum this is version 1
+#include feature 2
+
+
 
 -------------version 1 -----------
 
@@ -9,3 +12,16 @@ and so is this
 
 
 continue with master 1
+
+---------- Feature 2
+addied feature 2 function
+
+void function feature2()
+{
+
+	print feaure 2
+	
+}
+
+
+

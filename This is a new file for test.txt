@@ -1,6 +1,6 @@
 hello mum this is version 1
 #include feature 2
-
+#incldue feature 3
 
 
 -------------version 1 -----------
@@ -32,3 +32,7 @@ print featur2
 
 
 this is all feature 3
+void f3 ()
+{
+	print f3
+}

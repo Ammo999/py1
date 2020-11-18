@@ -36,4 +36,6 @@ this is all feature 3
 void f3 ()
 {
 	print f3
+   another line in f3
+yet another line f3
 }
